@@ -4,6 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
+        "consumer":"node src/consumer.js",
         "lint": "./node_modules/.bin/eslint"
     },
     "keywords": [],
